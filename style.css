@@ -51,7 +51,11 @@ main p {
 }
 footer {
   text-align: center;
-  transform: translateY(-5rem);
+  position: fixed;
+  bottom: 1.6rem;
+  right: 1.7rem;
+  width: 100%;
+  /* transform: translateY(-5rem); */
 
   font-size: 1.5rem;
   /* border: 1px solid orange; */
